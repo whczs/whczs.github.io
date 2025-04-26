@@ -7,12 +7,12 @@ export default defineUserConfig({
   lang: 'zh-CN',
   locales: {
     '/': {
-      title: 'My Vuepress-plume Site',
+      title: 'WHC\'s VuePress-plume Site',
       lang: 'zh-CN',
       description: 'desc',
     },
     '/en/': {
-      title: 'My Vuepress-plume Site',
+      title: 'WHC\'s VuePress-plume Site',
       lang: 'en-US',
       description: 'desc',
     },

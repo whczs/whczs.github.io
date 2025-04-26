@@ -47,7 +47,7 @@ export default defineThemeConfig({
        */
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'My Vuepress-plume Site',
+        name: 'WHC\'s VuePress-plume Site',
         description: 'desc',
         // circle: true,
         // location: '',
@@ -74,7 +74,7 @@ export default defineThemeConfig({
        */
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'My Vuepress-plume Site',
+        name: 'whc-vuepress-plume-site',
         description: 'desc',
         // circle: true,
         // location: '',
