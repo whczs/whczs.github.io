@@ -1,8 +1,8 @@
 {
-  "name": "whc-vuepress-plume-site",
+  "name": "whc-blog",
   "type": "module",
   "version": "1.0.0",
-  "description": "desc",
+  "description": "记录生活",
   "packageManager": "pnpm@10.9.0",
   "pnpm": {
     "onlyBuiltDependencies": [
@@ -10,7 +10,7 @@
       "esbuild"
     ]
   },
-  "author": "wanghuichuang <wanghczs@163.com>",
+  "author": "whczs",
   "license": "MIT",
   "engines": {
     "node": "^18.19.0 || ^20.6.0 || >=22.0.0"
